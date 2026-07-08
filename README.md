@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mujtaba Hyder</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=2500&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Mujtaba+Hyder" alt="Hi I'm Mujtaba Hyder" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;ASP.NET+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;ASP.NET+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">

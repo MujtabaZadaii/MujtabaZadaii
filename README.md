@@ -24,3 +24,7 @@
 [![](https://komarev.com/ghpvc/?username=mujtabazadaii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="./logo_motion.svg" width="180" alt="Animated Logo">
+</p>

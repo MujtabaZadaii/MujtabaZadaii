@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MujtabaZadaii/MujtabaZadaii/main/assets/logo_motion.svg" alt="Mujtaba Hyder Logo" width="180">
+  <img src="https://raw.githubusercontent.com/MujtabaZadaii/MujtabaZadaii/main/logo_motion.svg" alt="Mujtaba Hyder Logo" width="180">
 </p>
 
 <p align="center">

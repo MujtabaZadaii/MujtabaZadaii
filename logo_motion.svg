@@ -20,87 +20,95 @@
 
   <style>
     /* Styles are active only if prefers-reduced-motion is no-preference */
-    @media (prefers-reduced-motion: no-preference) {
-      #part-n-left {
-        --p2m-dx: -150px;
-        --p2m-dy: -240px;
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: p2m-slide-in 700ms cubic-bezier(0.16, 1, 0.3, 1) 0ms both;
-      }
+   #part-n-left {
+  --p2m-dx: -150px;
+  --p2m-dy: -240px;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: p2m-slide-in 4s ease-in-out infinite;
+}
 
-      #part-z-center {
-        --p2m-dx: 150px;
-        --p2m-dy: -240px;
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: p2m-slide-in 700ms cubic-bezier(0.16, 1, 0.3, 1) 150ms both;
-      }
+#part-z-center {
+  --p2m-dx: 150px;
+  --p2m-dy: -240px;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: p2m-slide-in 4s ease-in-out .15s infinite;
+}
 
-      #part-z-bottom {
-        --p2m-dx: -150px;
-        --p2m-dy: 240px;
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: p2m-slide-in 700ms cubic-bezier(0.16, 1, 0.3, 1) 300ms both;
-      }
+#part-z-bottom {
+  --p2m-dx: -150px;
+  --p2m-dy: 240px;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: p2m-slide-in 4s ease-in-out .30s infinite;
+}
 
-      #part-p-right {
-        --p2m-dx: 150px;
-        --p2m-dy: 240px;
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: p2m-slide-in 700ms cubic-bezier(0.16, 1, 0.3, 1) 450ms both;
-      }
+#part-p-right {
+  --p2m-dx: 150px;
+  --p2m-dy: 240px;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: p2m-slide-in 4s ease-in-out .45s infinite;
+}
 
-      #glint-rect {
-        transform-box: fill-box;
-        transform-origin: center;
-        animation: p2m-glint 1200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms both;
-      }
+#glint-rect {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: p2m-glint 4s linear infinite;
+}
 
-      @keyframes p2m-slide-in {
-        0% {
-          opacity: 0;
-          transform: translate(var(--p2m-dx), var(--p2m-dy)) scale(0.9);
-        }
-        60% {
-          opacity: 1;
-          transform: translate(calc(var(--p2m-dx) * -0.05), calc(var(--p2m-dy) * -0.05)) scale(1.03); /* slight spring overshoot */
-        }
-        100% {
-          opacity: 1;
-          transform: translate(0, 0) scale(1);
-        }
-      }
+   @keyframes p2m-slide-in {
+  0% {
+    opacity: 0;
+    transform: translate(var(--p2m-dx), var(--p2m-dy)) scale(.85);
+  }
 
-      @keyframes p2m-glint {
-        0%, 65% {
-          transform: translateX(-100%);
-          opacity: 0;
-        }
-        66% {
-          transform: translateX(-100%);
-          opacity: 1;
-        }
-        90% {
-          transform: translateX(100%);
-          opacity: 1;
-        }
-        91%, 100% {
-          transform: translateX(100%);
-          opacity: 0;
-        }
-      }
-    }
+  15% {
+    opacity: 1;
+    transform: translate(0, 0) scale(1);
+  }
+
+  85% {
+    opacity: 1;
+    transform: translate(0, 0) scale(1);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate(var(--p2m-dx), var(--p2m-dy)) scale(.85);
+  }
+}
+
+   @keyframes p2m-glint {
+  0%,20% {
+    transform: translateX(-120%);
+    opacity: 0;
+  }
+
+  30% {
+    opacity: 1;
+  }
+
+  50% {
+    transform: translateX(120%);
+    opacity: 1;
+  }
+
+  55%,100% {
+    transform: translateX(120%);
+    opacity: 0;
+  }
+}
+    
   </style>
 
   <g id="logo-graphics" fill-rule="evenodd" shape-rendering="geometricPrecision">
     <!-- Individual semantic components of the monogram -->
-    <polygon id="part-n-left" points="335,596 100,596 100,270 217,270 282,348 282,82 390,82 475,381" fill="#1a1a1a" />
-    <polygon id="part-z-center" points="584,596 358,595 553,289 479,289 478,217 578,216 616,82 720,82 722,253 680,255 511,522 584,524" fill="#1a1a1a" />
-    <polygon id="part-p-right" points="720,792 607,789 608,401 691,270 903,270 904,596 830,596 722,468" fill="#1a1a1a" />
-    <polygon id="part-z-bottom" points="589,792 283,792 282,714 344,615 455,615 398,706 589,706" fill="#1a1a1a" />
+    <polygon id="part-n-left" points="335,596 100,596 100,270 217,270 282,348 282,82 390,82 475,381" fill="#FFFFFF" />
+    <polygon id="part-z-center" points="584,596 358,595 553,289 479,289 478,217 578,216 616,82 720,82 722,253 680,255 511,522 584,524" fill="#FFFFFF" />
+    <polygon id="part-p-right" points="720,792 607,789 608,401 691,270 903,270 904,596 830,596 722,468" fill="#FFFFFF" />
+    <polygon id="part-z-bottom" points="589,792 283,792 282,714 344,615 455,615 398,706 589,706" fill="#FFFFFF" />
   </g>
 
   <!-- Glint shimmer overlay -->

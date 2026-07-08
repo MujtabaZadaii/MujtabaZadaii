@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/MujtabaZadaii/MujtabaZadaii/main/assets/logo_motion.svg" alt="Mujtaba Hyder Logo" width="180">
+</p>
+
+<p align="center">
   <img src="./ChatGPT Image Jul 8, 2026, 10_36_21 PM.png" alt="Mujtaba Hyder Banner" width="100%">
 </p>
 <br><br>🔭 I’m currently working on: Full-Stack Web Applications, AI-powered Solutions, and Interactive 3D Experiences<br><br>👯 I’m looking to collaborate on: Open Source Projects, SaaS Platforms, AI Applications, and Modern Web Technologies<br><br>🤝 I’m looking for help with: Advanced AI/ML, Cloud Architecture, DevOps, and Offensive Security Research<br><br>🌱 I’m currently learning: Artificial Intelligence, Large Language Models (LLMs), Cybersecurity, Cloud Computing, and System Design<br><br>💬 Ask me about: MERN Stack, React, Next.js, Node.js, Laravel, PHP, ASP.NET MVC, GSAP, Framer Motion, Three.js, REST APIs, SQL, MongoDB, and Software Architecture<br><br>⚡ Fun fact: I enjoy understanding how systems work, optimizing their performance, and building secure software with modern technologies.
@@ -25,6 +29,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
-  <img src="./logo_motion.svg" width="180" alt="Animated Logo">
-</p>

@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <p align="center">
-  <img src="./banner.png" width="100%" alt="Banner">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MujtabaZadaii/MujtabaZadaii/main/logo_motion.svg" alt="Mujtaba Hyder Logo" width="180">
 </p>
   <img src="./ChatGPT Image Jul 8, 2026, 10_36_21 PM.png" alt="Mujtaba Hyder Banner" width="100%">
 </p>

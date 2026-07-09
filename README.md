@@ -23,13 +23,14 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujtabazadaii&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Mujtaba's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=mujtabazadaii&theme=swift&hide_border=false" alt="Mujtaba's Streak Stats" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mujtabazadaii&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Mujtaba's GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=mujtabazadaii&theme=swift&hide_border=false" alt="Mujtaba's Streak Stats" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabazadaii&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujtabazadaii&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
 </p>
+
 
 
 ### ✍️ Random Dev Quote

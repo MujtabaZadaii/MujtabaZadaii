@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=2500&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Mujtaba+Hyder" alt="Hi I'm Mujtaba Hyder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Mujtaba+Zadaii;Hi+%F0%9F%91%8B,+I'm+Mujtaba+Hyder" alt="Hi I'm Mujtaba" />
 </p>
+
 
 
 

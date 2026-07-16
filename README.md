@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="./ChatGPT Image Jul 8, 2026, 10_36_21 PM.png" alt="Mujtaba Hyder Banner" width="100%">
+  <img src="./mujtaba.png" alt="Mujtaba Hyder Banner" width="100%">
 </p>
 
 <p align="center">

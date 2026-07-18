@@ -130,13 +130,12 @@
       <text clip-path="url(#clip-line-6)" x="40" y="180"><tspan fill="#98c379">'Node.js'</tspan>, <tspan fill="#98c379">'MongoDB'</tspan></text>
       <text clip-path="url(#clip-line-7)" x="20" y="210">]</text>
       <text clip-path="url(#clip-line-8)" x="0" y="240">};</text>
+    <!-- Animated Cursors -->
+
     </g>
 
     <!-- Highlight marker -->
     <rect x="20" y="70" width="340" height="26" fill="#ffffff" fill-opacity="0.05" rx="4" />
-    <!-- Blinking cursor -->
-    <rect x="180" y="228" width="8" height="16" fill="#0ea5e9">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
-    </rect>
+    
   </g>
 </svg>

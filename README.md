@@ -49,7 +49,7 @@ I enjoy understanding how systems work, optimizing their performance, and buildi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mujtabazadaii&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Mujtaba's GitHub Stats" height="165" />
+  <img src="./assets/readme/stats.svg" alt="Mujtaba's GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=mujtabazadaii&theme=radical&hide_border=false" alt="Mujtaba's Streak Stats" height="165" />
 </p>
 

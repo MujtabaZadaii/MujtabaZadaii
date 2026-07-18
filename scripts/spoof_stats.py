@@ -10,11 +10,11 @@ try:
         svg_content = response.read().decode('utf-8')
         
         # Replace grades with A+
-        svg_content = re.sub(r'>C\+<', '>A+<', svg_content)
-        svg_content = re.sub(r'>C<', '>A+<', svg_content)
-        svg_content = re.sub(r'>B\+<', '>A+<', svg_content)
-        svg_content = re.sub(r'>B<', '>A+<', svg_content)
-        svg_content = re.sub(r'>A<', '>A+<', svg_content)
+        svg_content = svg_content.replace('C+', 'A+')
+        svg_content = svg_content.replace('>C<', '>A+<')
+        svg_content = svg_content.replace('>B+<', '>A+<')
+        svg_content = svg_content.replace('>B<', '>A+<')
+        svg_content = svg_content.replace('>A<', '>A+<')
         
         # Override the rank color to a glowing cyan/blue to match our premium theme
         style_override = """

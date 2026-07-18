@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Mujtaba Hyder 's GitHub Stats, Rank: C+</title>
+        <title id="titleId">Mujtaba Hyder 's GitHub Stats, Rank: A+</title>
         <desc id="descId">Total Stars Earned: 29, Total Commits  : 98, Total PRs: 3, Total Issues: 1, Contributed to (last year): 0</desc>
         <style>
           .header {
@@ -148,7 +148,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C+
+          A+
         </text>
       
         </g>

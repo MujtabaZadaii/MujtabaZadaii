@@ -64,7 +64,7 @@
     </text>
 
     <text x="0" y="160" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" fill="#737373" max-width="600">
-      MERN Stack / Laravel / ASP.NET MVC / Three.js
+      MERN Stack / Laravel / PHP / ASP.NET MVC
     </text>
   </g>
 
@@ -79,9 +79,9 @@
       <text x="20" y="30">name: <tspan fill="#98c379">'Mujtaba Hyder'</tspan>,</text>
       <text x="20" y="60">role: <tspan fill="#98c379">'Full Stack Engineer'</tspan>,</text>
       <text x="20" y="90">skills: [</text>
-      <text x="40" y="120"><tspan fill="#98c379">'React'</tspan>, <tspan fill="#98c379">'Next.js'</tspan>,</text>
-      <text x="40" y="150"><tspan fill="#98c379">'Node.js'</tspan>, <tspan fill="#98c379">'Laravel'</tspan>,</text>
-      <text x="40" y="180"><tspan fill="#98c379">'MongoDB'</tspan>, <tspan fill="#98c379">'SQL'</tspan></text>
+      <text x="40" y="120"><tspan fill="#98c379">'MERN Stack'</tspan>, <tspan fill="#98c379">'Laravel'</tspan>,</text>
+      <text x="40" y="150"><tspan fill="#98c379">'PHP'</tspan>, <tspan fill="#98c379">'ASP.NET MVC'</tspan>,</text>
+      <text x="40" y="180"><tspan fill="#98c379">'Node.js'</tspan>, <tspan fill="#98c379">'MongoDB'</tspan></text>
       <text x="20" y="210">]</text>
       <text x="0" y="240">};</text>
     </g>

@@ -37,24 +37,35 @@ I enjoy understanding how systems work, optimizing their performance, and buildi
   <img src="./assets/readme/header-tech-stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
-| Frontend | Backend | Database | Tools & Others |
-|----------|---------|----------|----------------|
-| React, Next.js, Vue, Angular | Node.js, Express.js | MySQL, PostgreSQL | Git, GitHub, Vercel |
-| TypeScript, JavaScript | PHP, Laravel | MongoDB | Netlify, Firebase, Supabase |
-| Tailwind CSS, Bootstrap | ASP.NET MVC, C# | Microsoft SQL Server | WebGL, Three.js, GSAP |
-| HTML5, CSS3, Astro | REST APIs | Oracle | Framer Motion, Windows Terminal |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind,bootstrap,astro&theme=dark&perline=12" alt="Frontend Skills" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,dotnet,cs,mysql,postgres,mongodb,oracle&theme=dark&perline=12" alt="Backend & Database Skills" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,firebase,supabase,threejs,bash&theme=dark&perline=12" alt="Tools & Others" />
+</p>
 
 <p align="center">
   <img src="./assets/readme/header-stats.svg" width="100%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="./assets/readme/stats.svg" alt="Mujtaba's GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=mujtabazadaii&theme=radical&hide_border=false" alt="Mujtaba's Streak Stats" height="165" />
+  <a href="https://github.com/MujtabaZadaii" style="pointer-events: none;">
+    <img src="./assets/readme/stats.svg" alt="Mujtaba's GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/MujtabaZadaii" style="pointer-events: none;">
+    <img src="https://streak-stats.demolab.com/?user=mujtabazadaii&theme=radical&hide_border=false" alt="Mujtaba's Streak Stats" height="165" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujtabazadaii&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+  <a href="https://github.com/MujtabaZadaii">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujtabazadaii&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+  </a>
 </p>
 
 

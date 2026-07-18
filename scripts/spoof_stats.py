@@ -20,6 +20,7 @@ try:
         style_override = """
         <style>
             .rank-circle-rim { stroke: #0ea5e9 !important; }
+            .rank-circle { stroke: #0ea5e9 !important; stroke-dasharray: 240, 251.3 !important; }
             .rank-text { fill: #0ea5e9 !important; font-weight: bold !important; text-shadow: 0 0 5px rgba(14, 165, 233, 0.5) !important; }
         </style>
         """

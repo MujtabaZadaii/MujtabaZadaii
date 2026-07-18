@@ -31,6 +31,52 @@
       <feGaussianBlur stdDeviation="15" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
+  
+    <clipPath id="clip-line-0">
+      <rect x="-10" y="-15" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.000; 0.044; 0.956; 1.000; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-1">
+      <rect x="-10" y="15" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.044; 0.089; 0.911; 0.956; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-2">
+      <rect x="-10" y="45" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.089; 0.133; 0.867; 0.911; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-3">
+      <rect x="-10" y="75" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.133; 0.178; 0.822; 0.867; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-4">
+      <rect x="-10" y="105" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.178; 0.222; 0.778; 0.822; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-5">
+      <rect x="-10" y="135" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.222; 0.267; 0.733; 0.778; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-6">
+      <rect x="-10" y="165" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.267; 0.311; 0.689; 0.733; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-7">
+      <rect x="-10" y="195" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.311; 0.356; 0.644; 0.689; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-8">
+      <rect x="-10" y="225" width="0" height="30">
+        <animate attributeName="width" values="0; 0; 340; 340; 0; 0" keyTimes="0; 0.356; 0.400; 0.600; 0.644; 1" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
   </defs>
 
   <!-- Base Canvas -->
@@ -51,7 +97,7 @@
   <!-- Code Editor Motif -->
   <g transform="translate(60, 110)">
     <!-- Path line -->
-    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#737373">
+    <text x="0" y="-15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#737373">
       ~/portfolio/mujtabazadaii <tspan fill="#38bdf8">on main</tspan>
     </text>
     
@@ -71,19 +117,19 @@
   <!-- Right Side: Tech Stack Visual or Diagram -->
   <g transform="translate(760, 80)">
     <!-- Outer Box -->
-    <rect x="0" y="0" width="380" height="260" rx="16" fill="#000000" fill-opacity="0.4" stroke="#ffffff" stroke-opacity="0.1" />
+    <rect x="0" y="-10" width="380" height="300" rx="16" fill="#000000" fill-opacity="0.4" stroke="#ffffff" stroke-opacity="0.1" />
     
     <!-- Code block visualization -->
     <g transform="translate(30, 40)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#a3a3a3">
-      <text x="0" y="0"><tspan fill="#c678dd">const</tspan> developer <tspan fill="#38bdf8">=</tspan> {</text>
-      <text x="20" y="30">name: <tspan fill="#98c379">'Mujtaba Hyder'</tspan>,</text>
-      <text x="20" y="60">role: <tspan fill="#98c379">'Full Stack Engineer'</tspan>,</text>
-      <text x="20" y="90">skills: [</text>
-      <text x="40" y="120"><tspan fill="#98c379">'MERN Stack'</tspan>, <tspan fill="#98c379">'Laravel'</tspan>,</text>
-      <text x="40" y="150"><tspan fill="#98c379">'PHP'</tspan>, <tspan fill="#98c379">'ASP.NET MVC'</tspan>,</text>
-      <text x="40" y="180"><tspan fill="#98c379">'Node.js'</tspan>, <tspan fill="#98c379">'MongoDB'</tspan></text>
-      <text x="20" y="210">]</text>
-      <text x="0" y="240">};</text>
+      <text clip-path="url(#clip-line-0)" x="0" y="0"><tspan fill="#c678dd">const</tspan> developer <tspan fill="#38bdf8">=</tspan> {</text>
+      <text clip-path="url(#clip-line-1)" x="20" y="30">name: <tspan fill="#98c379">'Mujtaba Hyder'</tspan>,</text>
+      <text clip-path="url(#clip-line-2)" x="20" y="60">role: <tspan fill="#98c379">'Full Stack Engineer'</tspan>,</text>
+      <text clip-path="url(#clip-line-3)" x="20" y="90">skills: [</text>
+      <text clip-path="url(#clip-line-4)" x="40" y="120"><tspan fill="#98c379">'MERN Stack'</tspan>, <tspan fill="#98c379">'Laravel'</tspan>,</text>
+      <text clip-path="url(#clip-line-5)" x="40" y="150"><tspan fill="#98c379">'PHP'</tspan>, <tspan fill="#98c379">'ASP.NET MVC'</tspan>,</text>
+      <text clip-path="url(#clip-line-6)" x="40" y="180"><tspan fill="#98c379">'Node.js'</tspan>, <tspan fill="#98c379">'MongoDB'</tspan></text>
+      <text clip-path="url(#clip-line-7)" x="20" y="210">]</text>
+      <text clip-path="url(#clip-line-8)" x="0" y="240">};</text>
     </g>
 
     <!-- Highlight marker -->

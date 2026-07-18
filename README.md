@@ -9,9 +9,9 @@
         <strong>Full-Stack Developer specializing in MERN, Laravel, and ASP.NET.</strong> I build highly responsive modern web applications, AI-powered solutions, and interactive 3D experiences.
       </blockquote>
       <p align="left">
-        <a href="mailto:mujtabazadaii@gmail.com"><strong>Contact Me</strong></a> ·
-        <a href="https://linkedin.com/in/mujtabazadaii"><strong>LinkedIn</strong></a> ·
-        <a href="https://instagram.com/Mujtabazadaii"><strong>Instagram</strong></a>
+        <a href="mailto:mujtabazadaii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://linkedin.com/in/mujtabazadaii"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://instagram.com/Mujtabazadaii"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
       </p>
     </td>
     <td width="30%" align="center">
@@ -57,11 +57,7 @@ I enjoy understanding how systems work, optimizing their performance, and buildi
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mujtabazadaii&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
 </p>
 
-### Top Contributed Repositories
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mujtabazadaii&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
 
 <br/>
 

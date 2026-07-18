@@ -20,10 +20,14 @@ try:
         style_override = """
         <style>
             .rank-circle-rim { stroke: #0ea5e9 !important; }
-            .rank-circle { stroke: #0ea5e9 !important; stroke-dasharray: 240, 251.3 !important; }
+            .rank-circle { stroke: #0ea5e9 !important; }
             .rank-text { fill: #0ea5e9 !important; font-weight: bold !important; text-shadow: 0 0 5px rgba(14, 165, 233, 0.5) !important; }
         </style>
         """
+        
+        # Make the ring full (A+ equivalent)
+        svg_content = re.sub(r'to\s*\{\s*stroke-dashoffset:\s*[\d.]+;\s*\}', 'to { stroke-dashoffset: 5; }', svg_content)
+        
         if '</style>' in svg_content:
             svg_content = svg_content.replace('</style>', '</style>' + style_override)
         else:
